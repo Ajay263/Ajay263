@@ -3,7 +3,7 @@
 ![github_cover_banner](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   As a passionate data scientist, I thrive on uncovering insights and solving complex problems using data. I am committed to staying at the forefront of the field by constantly learning and exploring new technologies and techniques. With a strong communication and collaboration skills, I enjoy working with cross-functional teams to translate data insights into actionable recommendations. I am eager to leverage my skills and expertise to help organizations make data-driven decisions that drive growth and success.
+   Experienced Data Engineer specializing in orchestrating end-to-end data pipelines that ensure seamless data extraction, transformation, deployment, and maintenance while upholding the highest security standards and least privilege principles. I leverage DataOps methodologies and robust orchestration tools such as Airflow to automate workflows and enable scalable data management. Proficient in ETL techniques, data modeling, and tools like dbt, I transform raw data into actionable insights. With a strong foundation in provisioning infrastructure using AWS, Terraform, and CloudFormation, I drive business growth by creating secure, efficient, and innovative data solutions. As a Freelance Data & Analytics Engineer, I am passionate about staying up-to-date with the latest technologies and best practices, collaborating effectively in cross-functional teams to deliver tangible value for every business.
 <br>
 <br>
 <div align="center">
